@@ -3,15 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://ivanzaporozhets.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio Website" />
-  </a>
-  <a href="https://linkedin.com/in/ivan-zaporozhets" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ivanzaporozhets25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://ivanzaporozhets.vercel.app/"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-%234C1D95.svg?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio Website" /></a><img width="20" /><a href="https://linkedin.com/in/ivan-zaporozhets"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%234C1D95.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><img width="20" /><a href="mailto:ivanzaporozhets25@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Email-%234C1D95.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 
