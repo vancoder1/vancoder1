@@ -80,15 +80,6 @@ I specialize in building robust enterprise solutions from the ground up. Whether
 
 ---
 
-### 📊 By The Numbers
-
-<div align="center">
-  <p><i>My GitHub Contributions</i></p>
-  <img src="https://ghchart.rshah.org/4C1D95/vancoder1" alt="Ivan's GitHub Contribution Chart" />
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vancoder1&theme=dark&hide_border=true&background=0D1117&ring=4C1D95&fire=4C1D95&currStreakNum=ffffff&currStreakLabel=4C1D95&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak" />
 </div>
