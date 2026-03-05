@@ -1,8 +1,5 @@
 <div align="center">
   <h1>I V A N &nbsp; Z A P O R O Z H E T S</h1>
-  <p>
-    <kbd>&nbsp;Software Engineer&nbsp;</kbd> &nbsp;&nbsp;•&nbsp;&nbsp; <kbd>&nbsp;Systems Architect&nbsp;</kbd> &nbsp;&nbsp;•&nbsp;&nbsp; <kbd>&nbsp;AI/ML Integrator&nbsp;</kbd>
-  </p>
 </div>
 
 <div align="center">
@@ -17,7 +14,6 @@
   </a>
 </div>
 
----
 
 ### 👋 About Me
 
@@ -54,29 +50,6 @@ I specialize in building robust enterprise solutions from the ground up. Whether
   <img src="https://img.shields.io/badge/ADO.NET-2E1065?style=flat-square&logo=dotnet&logoColor=white" alt="ADO.NET" />
   <img src="https://img.shields.io/badge/Cypress-2E1065?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" />
 </div>
-
----
-
-### 🚀 Engineering & Architecture
-
-**[AsukaAI](https://github.com/vancoder1/AsukaAI)** *(2023 – Present)*
-> I wanted a local AI companion that actually responds fast. I engineered this open-source project using Faster-Whisper for rapid speech-to-text and hooked it up to Llama 3.1 via LangChain. It runs completely offline and is currently my most-starred repository.
-> <br> <img src="https://img.shields.io/badge/Python-4C1D95?style=flat-square" /> <img src="https://img.shields.io/badge/PyTorch-4C1D95?style=flat-square" /> <img src="https://img.shields.io/badge/Local_LLM-4C1D95?style=flat-square" />
-
-**[TaleWeaver](https://github.com/vancoder1/TaleWeaver)** *(2025)*
-> An open-source, AI-driven text adventure game I built for collaborative storytelling. It uses Python and ML to dynamically shift and adapt the narrative based on what players decide to do.
-> <br> <img src="https://img.shields.io/badge/Python-4C1D95?style=flat-square" /> <img src="https://img.shields.io/badge/Machine_Learning-4C1D95?style=flat-square" />
-
-**[IASM System](https://github.com/vancoder1/iasm_system)** *(2026)*
-> A practical, open-source inventory and sales management system. I focused heavily on designing scalable database schemas so it can handle real-world business workflows without slowing down.
-> <br> <img src="https://img.shields.io/badge/Python-4C1D95?style=flat-square" /> <img src="https://img.shields.io/badge/Relational_Databases-4C1D95?style=flat-square" />
-
-**[YTubeD](https://github.com/vancoder1/YTubeD)** *(2024)*
-> A robust, open-source desktop application for concurrent MP4/MP3 media processing. I built this strictly adhering to the MVVM architecture pattern in C# to keep the codebase clean, scalable, and easy to maintain.
-> <br> <img src="https://img.shields.io/badge/C%23-4C1D95?style=flat-square" /> <img src="https://img.shields.io/badge/WPF-4C1D95?style=flat-square" /> <img src="https://img.shields.io/badge/.NET-4C1D95?style=flat-square" />
-
-**SynTA** *(2026)*
-> Currently leading development on this enterprise web app. It uses an LLM to automatically generate Gherkin scenarios from user stories and turns them into executable Cypress scripts. *(Repo is private while we work on publishing the academic paper!)*
 
 ---
 
